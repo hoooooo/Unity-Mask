@@ -3,4 +3,4 @@
 
 
 ## 截图
-![ScreenShot](https://github.com/hoooooo/nguiScrollView/blob/main/Assets/screencast.gif)
+![ScreenShot](https://github.com/hoooooo/Unity-Mask/blob/main/Assets/screencast.gif)
